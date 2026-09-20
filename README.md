@@ -1,479 +1,116 @@
 <div align="center">
 
-# SAKETH REDDY PINGILI
+# Saketh Reddy Pingili
 
-### Full Stack Developer · Computer Science Student · Problem Solver
+### Full Stack Developer · CS Student · Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=00BFFF&center=true&vCenter=true&width=750&lines=Building+Full+Stack+Applications;Learning+Backend+Engineering;Solving+Data+Structures+%26+Algorithms;Exploring+System+Design;Contributing+to+Open+Source" />
-
-<br/>
-
-<a href="https://github.com/sakethreddyp">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=sakethreddyp&style=for-the-badge&color=00BFFF&label=PROFILE+VIEWS"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=420&lines=Building+full-stack+apps;Learning+backend+%26+system+design;Solving+DSA+every+week;Open+to+collaboration" alt="Typing animation" />
 
 </div>
-
----
-
-## Navigation
-
-<p align="center">
-
-<a href="#about">About</a> •
-<a href="#focus">Focus</a> •
-<a href="#stack">Stack</a> •
-<a href="#projects">Projects</a> •
-<a href="#problem-solving">DSA</a> •
-<a href="#github-activity">Activity</a> •
-<a href="#learning">Learning</a> •
-<a href="#connect">Connect</a>
-
-</p>
 
 ---
 
 ## About
 
-I'm a Computer Science student focused on building practical software and improving my understanding of full-stack development, backend engineering and problem solving.
+Computer Science student building practical full-stack software — APIs, React UIs, and data-driven apps. I learn by shipping projects and sharpening problem-solving through DSA.
 
-I enjoy turning ideas into working applications and continuously improving the way I design, build and structure software.
-
-```text
-Developer Profile
-──────────────────────────────────────
-
-Focus       → Full Stack Development
-Backend     → Java • Node.js • Express
-Frontend    → React • JavaScript
-Database    → MongoDB • MySQL
-Problem     → Data Structures & Algorithms
-Architecture→ System Design
-Community   → Open Source
-```
-
----
-
-## Focus
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### Backend
-
-Building APIs, authentication systems and backend applications.
-
-</td>
-
-<td width="33%" align="center">
-
-### Frontend
-
-Creating responsive and interactive interfaces with React.
-
-</td>
-
-<td width="33%" align="center">
-
-### Problem Solving
-
-Strengthening DSA and algorithmic thinking.
-
-</td>
-
-</tr>
-</table>
+- **Focus** — Full Stack · Backend · DSA
+- **Backend** — Java · Node.js · Express
+- **Frontend** — React · JavaScript · HTML/CSS
+- **Data** — MongoDB · MySQL
+- **Now** — Spring Boot · System Design
 
 ---
 
 ## Tech Stack
 
-### Languages
+**Languages**
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,c,js,python" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### Frontend
+**Frontend**
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Backend
+**Backend & Databases**
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Databases
+**Tools**
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
-
----
-
-## Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>GARUDA Wish Wall</h3>
-
-<p>
-A social platform where users can create wishes,
-interact with others and manage their profiles.
-</p>
-
-<p>
-<b>Stack:</b> MERN
-</p>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>Garuda Pay</h3>
-
-<p>
-A digital payment application featuring authentication,
-money transfers, transaction history and receipt generation.
-</p>
-
-<p>
-<b>Stack:</b> Full Stack
-</p>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>AI Assistant</h3>
-
-<p>
-A Python-based voice assistant capable of processing
-voice commands and performing different tasks.
-</p>
-
-<p>
-<b>Stack:</b> Python
-</p>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>Netflix Clone</h3>
-
-<p>
-A responsive Netflix-inspired interface created
-to practice frontend development and responsive design.
-</p>
-
-<p>
-<b>Stack:</b> HTML · CSS · JavaScript
-</p>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-</table>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## Developer Terminal
+## Featured Projects
 
-```text
-┌──────────────────────────────────────────────────┐
-│  saketh@github ~                                 │
-├──────────────────────────────────────────────────┤
-│                                                  │
-│  $ whoami                                        │
-│  > Saketh Reddy Pingili                         │
-│                                                  │
-│  $ role                                          │
-│  > Computer Science Student                     │
-│                                                  │
-│  $ focus                                         │
-│  > Full Stack Development                       │
-│  > Backend Engineering                          │
-│  > Data Structures & Algorithms                 │
-│  > System Design                                │
-│                                                  │
-│  $ status                                        │
-│  > BUILDING                                      │
-│                                                  │
-└──────────────────────────────────────────────────┘
-```
+### [GarudaPay](https://github.com/sakethreddypingili/GarudaPay)
+Digital payments flow — auth, transfers, history, and receipts.  
+`JavaScript` · Full Stack
+
+### [GitScout](https://github.com/sakethreddypingili/GitScout)
+GitHub profile explorer with Chart.js dashboards and live API data.  
+`HTML` · `CSS` · `JavaScript`
+
+### [NewsHub](https://github.com/sakethreddypingili/NewsHub)
+News dashboard with categories, search, and local bookmarks.  
+`HTML` · `CSS` · `JavaScript`
+
+### [SpendWise](https://github.com/sakethreddypingili/SpendWise)
+Personal finance tracker — balances, categories, and transaction logs.  
+`HTML` · `CSS` · `JavaScript`
+
+<details>
+<summary><b>More projects</b></summary>
+
+- [TaskFlow](https://github.com/sakethreddypingili/TaskFlow) — Task management UI
+- [QuizQuest](https://github.com/sakethreddypingili/QuizQuest) — Interactive quiz app
+- [InovateX](https://github.com/sakethreddypingili/InovateX) — Product / landing UI practice
+- [HackerRank-Solutions](https://github.com/sakethreddypingili/HackerRank-Solutions) — Curated coding challenge solutions
+- [code-playground](https://github.com/sakethreddypingili/code-playground) — Practice playground (C & more)
+
+</details>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sakethreddypingili&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sakethreddypingili&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+</div>
 
 ---
 
 ## Problem Solving
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/DSA-150%2B%20Problems-00BFFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-Active-7C3AED?style=for-the-badge"/>
-
-</div>
-
-### Current DSA Areas
-
-```text
-Arrays
-   ↓
-Strings
-   ↓
-Linked Lists
-   ↓
-Stacks & Queues
-   ↓
-Trees & BST
-   ↓
-Recursion
-   ↓
-Searching & Sorting
-   ↓
-Advanced Algorithms
-```
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sakethreddyp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakethreddyp&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakethreddyp&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakethreddyp&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sakethreddyp/sakethreddyp/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sakethreddyp&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
----
-
-## Currently Learning
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### Java
-
-Core Java  
-OOP  
-Collections  
-Exception Handling
-
-</td>
-
-<td align="center" width="25%">
-
-### Spring Boot
-
-REST APIs  
-Backend Architecture  
-Authentication  
-Database Integration
-
-</td>
-
-<td align="center" width="25%">
-
-### React
-
-Components  
-State Management  
-API Integration  
-Responsive UI
-
-</td>
-
-<td align="center" width="25%">
-
-### System Design
-
-Architecture  
-Scalability  
-APIs  
-Databases
-
-</td>
-
-</tr>
-</table>
-
----
+![DSA](https://img.shields.io/badge/DSA-150%2B%20Problems-0EA5E9?style=for-the-badge)
+![Status](https://img.shields.io/badge/Practice-Active-22C55E?style=for-the-badge)
 
 <details>
-<summary><b>Development Roadmap</b></summary>
+<summary><b>Current track</b></summary>
 
-<br/>
+`Arrays → Strings → Linked Lists → Stacks & Queues → Trees → Recursion → Sorting → Advanced`
 
-```text
-                    CURRENT
-                       │
-                       ▼
-             Full Stack Development
-                       │
-          ┌────────────┴────────────┐
-          ▼                         ▼
-       Frontend                  Backend
-          │                         │
-        React                  Java / Spring
-          │                         │
-          └────────────┬────────────┘
-                       ▼
-                  Databases
-                       │
-                       ▼
-                 System Design
-                       │
-                       ▼
-              Scalable Applications
-```
+Also exploring: **Spring Boot**, **REST APIs**, **System Design**
 
 </details>
-
----
-
-<details>
-<summary><b>What I'm Working On</b></summary>
-
-<br/>
-
-- Full-stack applications
-- Backend development
-- REST API development
-- Database-driven applications
-- Data Structures & Algorithms
-- System Design fundamentals
-- Open Source contributions
-
-</details>
-
----
-
-<details>
-<summary><b>Technical Interests</b></summary>
-
-<br/>
-
-```text
-Web Development
-Backend Engineering
-Software Architecture
-Databases
-APIs
-Distributed Systems
-Problem Solving
-Open Source
-```
-
-</details>
-
----
-
-## Developer Metrics
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/sakethreddyp?style=for-the-badge&logo=github&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/sakethreddyp?style=for-the-badge&logo=github&label=STARS"/>
-<img src="https://img.shields.io/github/commit-activity/y/sakethreddyp?style=for-the-badge&logo=github&label=COMMITS"/>
-<img src="https://img.shields.io/github/last-commit/sakethreddyp/sakethreddyp?style=for-the-badge&logo=github&label=LAST%20UPDATE"/>
-
-</div>
-
----
-
-## Achievements
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-00BFFF?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/DSA-150%2B-7C3AED?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-22C55E?style=for-the-badge"/>
-
-</div>
 
 ---
 
@@ -481,24 +118,6 @@ Open Source
 
 <div align="center">
 
-<a href="https://github.com/sakethreddyp">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### BUILD • LEARN • SOLVE • SHIP
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer"/>
+[![GitHub](https://img.shields.io/badge/GitHub-sakethreddypingili-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakethreddypingili)
 
 </div>
