@@ -4,7 +4,7 @@
 
 ### Full Stack Developer · CS Student · Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=420&lines=Building+full-stack+apps;Learning+backend+%26+system+design;Solving+DSA+every+week;Open+to+collaboration" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Competitive+Programmer;Open+Source+Contributor;Always+Learning+New+Technologies;Building+Projects+that+Solve+Real+Problems" alt="Typing animation" />
 
 </div>
 
