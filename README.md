@@ -6,10 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=420&lines=Building+full-stack+apps;Learning+backend+%26+system+design;Solving+DSA+every+week;Open+to+collaboration" alt="Typing animation" />
 
-<br/>
-
-![Profile views](https://komarev.com/ghpvc/?username=sakethreddypingili&label=Profile%20views&color=0ea5e9&style=flat)
-
 </div>
 
 ---
@@ -137,10 +133,10 @@ Computer Science student building practical full-stack software — APIs, React 
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sakethreddypingili&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats"/>
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sakethreddypingili&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sakethreddypingili&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sakethreddypingili&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" alt="Top languages"/>
     </td>
   </tr>
 </table>
